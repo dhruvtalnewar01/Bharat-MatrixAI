@@ -11,7 +11,6 @@
 [![AWS Nova Sonic](https://img.shields.io/badge/AWS-Nova_Sonic-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ai/generative-ai/nova/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-**Winner Submission | AWS AI for Bharat Hackathon 2026**
 
 </div>
 
@@ -310,20 +309,6 @@ MIT License - See [LICENSE](LICENSE) for details
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
----
-
-## 📧 Contact
-
-- **Team Lead**: [Your Name](mailto:your.email@example.com)
-- **Project Repository**: [github.com/your-org/bharat-matrix-ai](https://github.com/your-org/bharat-matrix-ai)
-- **Demo Video**: [YouTube Link](https://youtube.com/your-demo)
-
----
-
 <div align="center">
 
 **Built with ❤️ for Bharat | Powered by AWS AI**
@@ -331,3 +316,4 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 *Submitted to AWS AI for Bharat Hackathon 2026*
 
 </div>
+
